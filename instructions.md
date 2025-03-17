@@ -6,7 +6,7 @@
     Assignment Instructions
   </summary>
 
-- In replit under bonuses folder -> Create a file named exam2bonus3.py
+- In replit under bonuses folder -> Create a file named exam2bonus6.py
 - In that file, create a function called all_todos() - use pass keyword in the function body for now
 - Create a function for each todo for example TODO 1 will be in todo1()
 - Call todo1() in all_todos() after the pass keyword
