@@ -10,7 +10,7 @@
 - In that file, create a function called all_todos() - use pass keyword in the function body for now
 - Create a function for each todo for example TODO 1 will be in todo1()
 - Call todo1() in all_todos() after the pass keyword
-- Import the bonuses/exam2bonus3 module in main. Call all_todos() in main.py
+- Import the bonuses/exam2bonus6 module in main. Call all_todos() in main.py
 - As you complete each todo, comment out the function call to that todo
 - You may use the default print statement or suchi_print
 </details>
