@@ -123,8 +123,6 @@ Print the name and age of the student like this
 
 NAME: John Smith  
 AGE: 29  
-
-🚩 Use the dictionary keys, don't hard-code the word NAME or AGE
 </details>
 
 
@@ -179,14 +177,17 @@ AGE: 29
   <summary>
     ✅ 13. TODO ⏩ Refer to 9-7:
   </summary>
-  Drop student from math 101 in winter
+  Drop student from math 201 in winter
 </details>
 
 
 <details>
   <summary>
-    ✅ 14. TODO ⏩ Refer to 9-7:
+    ✅ 14. TODO ⏩ Refer to 9-6:
   </summary>
+
+  Drop student from math 101 in winter (Yes, student is not enrolled in math 101)  
+  So, use exception handling or use `in` before attempting to delete
 </details>
 
 
